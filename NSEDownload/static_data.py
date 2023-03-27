@@ -1,5 +1,5 @@
 def get_common_names_indices():
-    return ["NIFTY 50", "NIFTY Next 50", "NIFTY Midcap Liquid 15", "NIFTY 100", "NIFTY 200", "NIFTY 500",
+    return ["NIFTY 50", "NIFTY 200 MOMENTUM 30", "NIFTY Next 50", "NIFTY Midcap Liquid 15", "NIFTY 100", "NIFTY 200", "NIFTY 500",
             "NIFTY Midcap 150", "NIFTY Midcap 50", "NIFTY Full Midcap 100", "NIFTY Midcap 100", "NIFTY Smallcap 250",
             "NIFTY Smallcap 50", "NIFTY Full Smallcap 100", "NIFTY Smallcap 100", "NIFTY LargeMidcap 250",
             "NIFTY MidSmallcap 400", "NIFTY Auto", "NIFTY Bank", "NIFTY Financial Services", "NIFTY FMCG", "NIFTY IT",
@@ -39,7 +39,7 @@ def get_common_names_indices():
 
 
 def get_formatted_names_indices():
-    return ['NIFTY 50', 'NIFTY NEXT 50', 'NIFTY MID LIQ 15', 'NIFTY 100', 'NIFTY 200', 'NIFTY 500', 'NIFTY MIDCAP 150',
+    return ['NIFTY 50', 'NIFTY 200 MOMENTUM 30', 'NIFTY NEXT 50', 'NIFTY MID LIQ 15', 'NIFTY 100', 'NIFTY 200', 'NIFTY 500', 'NIFTY MIDCAP 150',
             'NIFTY MIDCAP 50', 'NIFTY FULL MIDCAP 100', 'NIFTY MIDCAP 100', 'NIFTY SMALLCAP 250', 'NIFTY SMALLCAP 50',
             'NIFTY FULL SMALLCAP 100', 'NIFTY SMLCAP 100', 'NIFTY LargeMidcap 250', 'NIFTY MIDSMALLCAP 400',
             'NIFTY AUTO',
